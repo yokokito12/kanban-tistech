@@ -14,23 +14,23 @@ function App() {
       <Projects>
         <ProjectKamban 
           nome="Fortuna"
-          idProj="portal"
-          kanbanPath="http://jiratis.northeurope.cloudapp.azure.com:8080/secure/RapidBoard.jspa?rapidView=81&projectKey=PG&selectedIssue=PG-26" 
+          idProj="PGCO"
+          kanbanPath="http://jiratis.northeurope.cloudapp.azure.com:8080/secure/RapidBoard.jspa?rapidView=5&projectKey=PGCO" 
           />
         <ProjectKamban
           nome="Novo Nome"
-          idProj="pagafacil"
-          kanbanPath="http://jiratis.northeurope.cloudapp.azure.com:8080/secure/RapidBoard.jspa?rapidView=72&projectKey=PAGF"
+          idProj="GeoCad"
+          kanbanPath="http://jiratis.northeurope.cloudapp.azure.com:8080/secure/RapidBoard.jspa?rapidView=102&projectKey=PG"
          />
         <ProjectKamban
           nome="Novo Nome"
-          idProj="sgp"
-          kanbanPath="http://jiratis.northeurope.cloudapp.azure.com:8080/secure/RapidBoard.jspa?rapidView=94&projectKey=SGP"
+          idProj="SAD"
+          kanbanPath="http://jiratis.northeurope.cloudapp.azure.com:8080/secure/RapidBoard.jspa?rapidView=8&projectKey=SAD"
          />
          <ProjectKamban
           nome="Novo Nome"
           idProj="treino"
-          kanbanPath="http://jiratis.northeurope.cloudapp.azure.com:8080/secure/RapidBoard.jspa?rapidView=99&projectKey=EI&view=detail&selectedIssue=EI-17"
+          kanbanPath="http://jiratis.northeurope.cloudapp.azure.com:8080/secure/RapidBoard.jspa?rapidView=99&projectKey=EI"
          />
       </Projects>
           
