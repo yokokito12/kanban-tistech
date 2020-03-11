@@ -32,6 +32,11 @@ function App() {
           idProj="treino"
           kanbanPath="http://jiratis.northeurope.cloudapp.azure.com:8080/secure/RapidBoard.jspa?rapidView=99&projectKey=EI"
          />
+         <ProjectKamban
+          nome="Novo Nome"
+          idProj="sharepoint"
+          kanbanPath="http://jiratis.northeurope.cloudapp.azure.com:8080/secure/RapidBoard.jspa?rapidView=71&projectKey=PTS&selectedIssue=PTS-59"
+         />
       </Projects>
           
 
